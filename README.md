@@ -1,5 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
+ # NAME : Kancharla Narmadha
+ # REGISTER NUMBER : 212222110016
+ # DEPARTMENT :CSE(IOT)
+ # YEAR : Third year
+
 ## Aim:
 To implement and verify the functioning of basic logic gates (AND, OR, NOT, NAND, NOR, XOR) using a PLC ladder program and simulate the outputs.</br>
 
@@ -98,8 +103,7 @@ NAND Gate: The output should be HIGH except when both inputs are HIGH.</br>
 NOR Gate: The output should be HIGH only when both inputs are LOW.</br>
 XOR Gate: The output should light up when exactly one input is HIGH.</br>
 
-#### NAME : YUVARANI T
-#### REGISTER NO: 212222110057
+
 
 ## SIMULATION RESULTS:
 
